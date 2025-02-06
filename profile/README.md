@@ -87,7 +87,7 @@ Some third-party platforms offer eFootball Coins as a reward for completing surv
 
 Once you've earned your eFootball Coins through the methods mentioned above, you'll want to redeem them to access all the premium content in the game. Here’s how to do it:
 
-1. **Open the eFootball app. [Visit the official website](https://glose.com/u/efootballcoins)**
+1. **Open the eFootball app. [Visit the official website](https://github.com/free-gems-resources-clash-of-clans)**
 2. Navigate to the **"Store"** or **"Rewards"** section within the app.
 3. Enter any **promo codes** or claim rewards from **completed tasks** in the relevant section.
 4. Ensure your coin balance has been updated to reflect the earned coins.
